@@ -1,0 +1,482 @@
+a
+{
+    color: white;
+}
+
+textarea
+{
+  border:1px solid #999999;
+  width:35%;
+  height: 8rem;
+}
+
+#contact
+{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#hide-it1
+{
+    visibility: hidden; 
+}
+
+#hide-it2
+{
+    visibility: hidden; 
+}
+
+#hide-it3
+{
+    visibility: hidden; 
+}
+
+#hide-it4
+{
+    visibility: hidden; 
+}
+
+.blue-text
+{
+    color: blue;
+}
+
+.center-black
+{
+    text-align: center;
+    color: black;
+}
+
+.messaging
+{
+    margin-left: 30px;
+    padding:30px;
+}
+
+.under-submit
+{
+    margin-bottom: 500px;
+}
+
+.navbar-brand
+{
+    font-size: 3rem;
+    color: white;
+}
+
+.dark-background
+{
+    background-color: black;
+}
+
+.ocean-background
+{
+    background-color: #0C98BA;
+}
+
+.space
+{
+    padding: 20px;
+}
+
+.super-space
+{
+    padding: 200px;
+}
+
+.big-heading 
+{
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    padding: 15% 5% 0%;
+}
+
+.resize-heading
+{
+    height: 80%;
+    width: 50%;
+    padding: 15% 5% 0%;
+}
+
+.explore-pictures
+{
+    height: 75%;
+    width: 75%;
+}
+
+.donate-pictures
+{
+    height: 200px;
+    width: 200px;
+}
+
+.explore-words
+{
+    font-size: 1.2rem;
+}
+
+#about
+{
+    font-size: 2rem;
+}
+
+.turtle-pic
+{
+    height: 50%;
+    width: 95%;
+}
+
+.small-pic
+{
+    height: 75%;
+    width: 75%;
+}
+
+.red-text
+{
+    color: red;
+}
+
+.right
+{
+    text-align: right;
+    position: relative;
+    right: 5%; 
+}
+
+.left
+{
+    position: relative;
+    left: 5%;
+}
+
+.center-white
+{
+    text-align: center;
+    color: white;
+    margin: 100px;
+    padding-bottom: 20px;
+}
+
+@media (max-width: 1086px)
+{
+    .explore-heading
+    {
+        font-size: 1.5rem;
+    }
+
+    textarea
+    {
+        width: 40%
+    }
+
+    .explore-right
+    {
+        text-align: right;
+        position: relative;
+        right: 5%; 
+    }
+    
+    #hide-it1
+    {
+        position: relative;
+        left: 10%;
+    }
+
+    #hide-it2
+    {
+        position: relative;
+        left: 10%;
+    }
+
+    #hide-it3
+    {
+        position: relative;
+        left: 10%;
+    }
+
+    #hide-it4
+    {
+        position: relative;
+        left: 10%;
+    }
+}
+
+@media (max-width: 991px)
+{
+    .explore-right
+    {
+        text-align: right;
+        position: relative;
+        left: 10%; 
+    }
+
+    #hide-it1
+    {
+        position: relative;
+        left: 25%;
+    }
+
+    #hide-it2
+    {
+        position: relative;
+        left: 25%;
+    }
+
+    #hide-it3
+    {
+        position: relative;
+        left: 25%;
+    }
+
+    #hide-it4
+    {
+        position: relative;
+        left: 25%;
+    }
+
+    
+}
+
+@media (max-width: 938px)
+{
+    .words
+    {
+        font-size: 85%;
+    }
+
+    textarea
+    {
+        width: 50%
+    }
+
+    .super-space
+    {
+        padding: 20px;
+        padding-left: 200px;  
+    }
+}
+
+@media(max-width: 824px)
+{
+    .explore-heading
+    {
+        font-size: 1.3rem;
+    }
+
+    .words
+    {
+        font-size: 70%;
+    }
+
+    textarea
+    {
+        width: 55%
+    }
+
+    #hide-it1
+    {
+        position: relative;
+        left: 30%;
+    }
+
+    #hide-it2
+    {
+        position: relative;
+        left: 30%;
+    }
+
+    #hide-it3
+    {
+        position: relative;
+        left: 30%;
+    }
+
+    #hide-it4
+    {
+        position: relative;
+        left: 30%;
+    }
+
+    
+}
+
+@media (max-width: 730px)
+{
+    .explore-heading
+    {
+        font-size: 1rem;
+    }
+
+    textarea
+    {
+        width: 60%
+    }
+
+    #hide-it1
+    { 
+        text-align: center;
+        left: 35%;
+    }
+
+    #hide-it2
+    { 
+        text-align: center;
+        left: 35%;
+    }
+
+    #hide-it3
+    { 
+        text-align: center;
+        left: 35%;
+    }
+
+    #hide-it4
+    { 
+        text-align: center;
+        left: 35%;
+    }
+}
+
+@media (max-width: 700px)
+{
+    .navbar-brand
+    {
+        font-size: 2rem;
+    }
+
+    .words
+    {
+        font-size: 50%;
+    }
+
+    textarea
+    {
+        width: 65%
+    }
+
+    #hide-it1
+    { 
+        left: 30%;
+    }
+
+    #hide-it2
+    { 
+        left: 30%;
+    }
+
+    #hide-it3
+    { 
+        left: 30%;
+    }
+
+    #hide-it4
+    { 
+        left: 30%;
+    }
+}
+
+
+
+@media (max-width: 575px)
+{
+    .below-title
+    {
+        position: relative;
+        top: 50px;
+        right: 90px;
+    }
+    .words
+    {
+        font-size: 85%;
+    }
+
+    textarea
+    {
+        width: 70%
+    }
+    
+    .explore-right
+    {
+        text-align: center;
+        position: relative;
+        left: 20px; 
+        top: 8px;
+    }
+
+    .turtle-title
+    {
+        padding-top: 8rem;
+    }
+    
+    #hide-it1
+    { 
+        position: static;
+    }
+
+    #hide-it2
+    { 
+        position: static;
+        text-align: center;
+    }
+
+    #hide-it3
+    { 
+        position: static;
+        text-align: center;
+    }
+
+    #hide-it4
+    { 
+        position: static;
+        text-align: center;
+    }
+
+    .under-bottom
+    {
+        padding-bottom: 40px;
+    }
+
+    .super-space
+    {
+        padding-right: 100px;  
+    }
+}
+
+@media (max-width: 550px)
+{
+    #hide-it1
+    { 
+        font-size: 14px;
+    }
+
+    #hide-it2
+    { 
+        font-size: 14px;
+    }
+
+    #hide-it3
+    { 
+        font-size: 14px;
+    }
+
+    #hide-it4
+    { 
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 516px)
+{
+    .below-title
+    {
+        font-size: 85%;
+    }
+
+    textarea
+    {
+        width: 75%
+    }
+}
+
